@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Computer Networks**
 
-- 👨‍💻 All of my projects are available at [https://arunsingh739.github.io/Personal-Portfolio/](https://arunsingh739.github.io/Personal-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://arunsingh739.github.io/Professional-Profile-Showcase-Web-Application/](https://arunsingh739.github.io/Professional-Profile-Showcase-Web-Application/)
 
 - 💬 Ask me about **Anythings...**
 
